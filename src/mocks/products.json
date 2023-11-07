@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/disco1.jpg",
+    "title": "Disco 1",
+    "price": 1541.99,
+    "category": "Discos",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/disco2.jpg",
+    "title": "Disco 2",
+    "price": 1579,
+    "category": "Discos",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/remera1.png",
+    "title": "Remera estilo 1",
+    "price": 739.99,
+    "category": "Remeras",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/react2.png",
+    "title": "Remera estilo 2",
+    "price": 849.99,
+    "category": "Remeras",
+    "stock": 11
+  },
+  {
+    "id": 5,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/remera3.png",
+    "title": "Remera estilo 3",
+    "price": 659.99,
+    "category": "Remeras",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/remera4.png",
+    "title": "Remera estilo 4",
+    "price": 769.99,
+    "category": "Remeras",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/remera5.png",
+    "title": "Remera estilo 5",
+    "price": 759.99,
+    "category": "Remeras",
+    "stock": 50
+  },
+  {
+    "id": 8,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/remera6.png",
+    "title": "Remera estilo 6",
+    "price": 829.99,
+    "category": "Remeras",
+    "stock": 15
+  },
+  {
+    "id": 9,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/poster1.jpg",
+    "title": "Poster estilo 1",
+    "price": 199.99,
+    "category": "Posters",
+    "stock": 30
+  },
+  {
+    "id": 10,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/poster2.jpg",
+    "title": "Poster estilo 2",
+    "price": 105.99,
+    "category": "Posters",
+    "stock": 20
+  },
+  {
+    "id": 11,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/poster3.jpg",
+    "title": "Poster estilo 3",
+    "price": 119.99,
+    "category": "Posters",
+    "stock": 18
+  },
+  {
+    "id": 12,
+    "image": "https://raw.githubusercontent.com/fransegu/PreEntrega1Segu/main/poster4.jpg",
+    "title": "Poster estilo 4",
+    "price": 129.99,
+    "category": "Posters",
+    "stock": 12
+  }
+]
